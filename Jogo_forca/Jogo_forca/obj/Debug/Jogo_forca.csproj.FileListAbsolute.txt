@@ -1,0 +1,10 @@
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\bin\Debug\Jogo_forca.exe.config
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\bin\Debug\Jogo_forca.exe
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\bin\Debug\Jogo_forca.pdb
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.csproj.AssemblyReference.cache
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\obj\Debug\GuessTheWord.Form1.resources
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.Properties.Resources.resources
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.csproj.GenerateResource.cache
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.csproj.CoreCompileInputs.cache
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.exe
+C:\Users\Qualhareli S_\source\repos\Jogo_forca\Jogo_forca\obj\Debug\Jogo_forca.pdb
